@@ -5,7 +5,8 @@
 This dashboard is for presenting my insight to the regional manager of the Shopping Mall chain with 10 different malls. I have created a dashboard which can help me discuss the sales of these malls with my higher-ups. This will be done solely to increase the sales.
 
 ## Tool used :
-<img src="./Excel_Img.png" width="300" height="200" align="left"/> /n;
+<img src="./Excel_Img.png" width="300" height="200" align="left"/>;
+</n>;
 
 ## Result and Insights :
 - I have noticed that the revenue starts increasing from 1st Quarter and there is a slight decrease in 4th Quarter.
